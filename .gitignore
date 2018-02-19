@@ -260,3 +260,5 @@ paket-files/
 __pycache__/
 *.pyc
 /Win32 API test/output.txt
+/Win32 API test/cout.txt
+/Win32 API test/wcout.txt
