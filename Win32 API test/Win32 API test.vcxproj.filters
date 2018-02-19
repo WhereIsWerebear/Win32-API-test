@@ -24,6 +24,9 @@
     <ClInclude Include="Win32 API test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="stream_demultiplexer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
