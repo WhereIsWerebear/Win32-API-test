@@ -1,6 +1,7 @@
 #pragma once
 
-// From https://stackoverflow.com/a/13978717/68086
+// Original from https://stackoverflow.com/a/13978717/68086.
+// Modified to be a template class.
 
 #include <vector>
 #include <ostream>
