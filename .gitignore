@@ -262,3 +262,4 @@ __pycache__/
 /Win32 API test/output.txt
 /Win32 API test/cout.txt
 /Win32 API test/wcout.txt
+*.txt
